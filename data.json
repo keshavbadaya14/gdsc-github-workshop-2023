@@ -17,6 +17,51 @@
       "github": "https://github.com/aryanargupta",
       "linkedin": "https://www.linkedin.com/in/aryan-amit-gupta/",
       "quote": "Failures make the taste of Success sweet"
+    },
+    {
+      "name": "Gungun Agarwal",
+      "batch": 2023,
+      "picture_url": "https://imgur.com/a/l4hyk7x",
+      "twitter": "",
+      "github": "",
+      "linkedin": "",
+      "quote": ""
+    },
+    {
+      "name": "Devyash Saini",
+      "batch": 2023,
+      "picture_url": "https://i.imgur.com/XA6AASl.jpeg",
+      "twitter": "https://twitter.com/TheDevyashSaini",
+      "github": "https://github.com/TheDevyashSaini",
+      "linkedin": "https://www.linkedin.com/in/TheDevyashSaini",
+      "quote": "I don't believe in obstacles, only in opportunities..."
+    },
+    {
+      "name": "Mehul Kumar",
+      "batch": 2021,
+      "picture_url": "https://imgur.com/a/3kSJq1S",
+      "twitter": "",
+      "github": "",
+      "linkedin": "",
+      "quote": "OS Lead hu mai"
+    },
+    {
+      "name": "Manveer Anand",
+      "batch": 2023,
+      "picture_url": "https://imgur.com/31Z5OU6",
+      "twitter": "",
+      "github": "",
+      "linkedin": "",
+      "quote": "my quote"
+    },
+    {
+      "name": "Abhijeet",
+      "batch": 2023,
+      "picture_url": "https://i.imgur.com/cCnPE95.jpg",
+      "twitter": "",
+      "github": "",
+      "linkedin": "",
+      "quote": "my quote"
     }
   ]
 }
